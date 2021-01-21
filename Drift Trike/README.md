@@ -8,3 +8,4 @@ The trike was built from April to August of 2020, the long timeline is due in pa
 ## Conclusion
 This project was a failure in many ways, it worked but I was mentally exhausted so I sold it for a loss and moved on. Although the project was a failure I don't regret taking it on for a few reasons. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things.
 ![Pic](https://github.com/vwellmo57/Stuff_Ive_made/blob/main/Drift%20Trike/Images/IMG_20200719_140138746.jpg)
+
