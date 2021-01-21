@@ -15,3 +15,4 @@ The foamboard planes were a last-ditch effort to make something fly. We used a d
 
 # Conclusion
 The planes were and still are a massive learning experience. Failing so hard for so long makes you learn a lot about design but more importantly about how to get over those obstacles. The projects as a whole build up our problem-solving skills a ton and as much as failing sucks it was worth it. Also seeing it fly for the first time was beautiful. 
+
