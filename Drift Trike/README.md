@@ -9,6 +9,9 @@ The trike is made from the downtube and front fork of a bmx and a custom steel f
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583801866846218/unknown.png)
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=800&height=674)
 
+The trike is powered by a pitbike engine that has an electric start. Power is transfered via chain with a gear ratio of about 1:2. The entire axle is keyed with no differential, this works out because the tires do not have much traction so if the rotational difference is to great they can slide. Below is a picture of the engine with the carb on top. 
+
+![Pic](https://media.discordapp.net/attachments/742868329336930305/855583178802724864/unknown.png?width=800&height=675)
 ## Conclusion
 This project was a failure in many ways, it worked but I was mentally exhausted so I sold it for a loss and moved on. Although the project was a failure I don't regret taking it on for a few reasons. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things.
 ![Pic](https://github.com/vwellmo57/Stuff_Ive_made/blob/main/Drift%20Trike/Images/IMG_20200719_140138746.jpg)
