@@ -7,7 +7,6 @@ The drift trike was easily the most ambitious project I have ever undertaken (at
 The trike is made from the downtube and front fork of a bmx and a custom steel frame. The steel should be welded together but I didn't have welder acess so I used bolts, this resulted in a fram with a bit more flex than is ideal but it was ok. 
 
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583801866846218/unknown.png)
-
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=840&height=674)
 
 ## Conclusion
