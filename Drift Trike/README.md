@@ -16,7 +16,9 @@ The trike is powered by a pitbike engine that has an electric start. Power is tr
 The frame goes from the downtube to a piece of steel tube and to a steel square in the back that hold the drive components. There is also a stringer from the rear of the fram to the downtube to add rigidity. It can be seen in the picture below. 
 
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583359655870504/unknown.png?width=800&height=674)
+
+The wheels sat in pillow block bearings that were self aligning. These bearing were mounted to the side of the rear frame. 
 ## Conclusion
-This project was a failure in many ways, it worked but I was mentally exhausted so I sold it for a loss and moved on. Although the project was a failure I don't regret taking it on for a few reasons. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things.
+This project was mentally exhausting as the scale was near the limit for me personally, I am glad I took it on. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things. I got much better at using Google to find information when it's not easily avalible. 
 ![Pic](https://github.com/vwellmo57/Stuff_Ive_made/blob/main/Drift%20Trike/Images/IMG_20200719_140138746.jpg)
 
