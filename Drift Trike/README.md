@@ -7,7 +7,7 @@ The drift trike was easily the most ambitious project I have ever undertaken (at
 The trike is made from the downtube and front fork of a bmx and a custom steel frame. The steel should be welded together but I didn't have welder acess so I used bolts, this resulted in a fram with a bit more flex than is ideal but it was ok. 
 
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583801866846218/unknown.png)
-![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=840&height=674)
+![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=700&height=674)
 
 ## Conclusion
 This project was a failure in many ways, it worked but I was mentally exhausted so I sold it for a loss and moved on. Although the project was a failure I don't regret taking it on for a few reasons. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things.
