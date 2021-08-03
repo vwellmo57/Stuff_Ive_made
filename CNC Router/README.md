@@ -6,7 +6,8 @@ In August of 2020 I watched [this](https://www.youtube.com/watch?v=_atw3e0nIrg&p
 ## The Build
 The router is made from aluminum tube and 3d printed parts. The aluminum was bought from a local welding supply and the parts were printed on my 3-D printer. The first part of the build consisted of printing all of the parts, I had one printer, an ender 3, and some of the parts took up to 3 dayts to print so it took a few weeks to get everything printed. 
 ![Pic](https://media.discordapp.net/attachments/871958447074197535/871958457245401148/unknown.png?width=800&height=674)
-![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=800&height=674)
+After everything was printed I used a miter saw to cut the Aluminum to lenght and threaded rod to make a frame. 
+![Pic](https://media.discordapp.net/attachments/871958447074197535/871959102115442728/unknown.png?width=800&height=674)
 
 The trike is powered by a pitbike engine that has an electric start. Power is transfered via chain with a gear ratio of about 1:2. The entire axle is keyed with no differential, this works out because the tires do not have much traction so if the rotational difference is to great they can slide. Below is a picture of the engine with the carb on top. 
 
