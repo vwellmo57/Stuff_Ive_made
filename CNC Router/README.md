@@ -1,14 +1,11 @@
 # CNC Router
 ## Intro
-In August of 2020 I watched [this] (https://www.youtube.com/watch?v=_atw3e0nIrg&pp=sAQA) video 
-
-The drift trike was easily the most ambitious project I have ever undertaken (at the time of writing), I've tackled more difficult projects but with more support and experience. The trike is based on a [video](https://www.youtube.com/watch?v=tMn8NqbCkDA) by Colinfurze but his documentation is lacking in my opinion so a lot of the design decisions were made along the way with a lot of luck involved. This [video](https://www.youtube.com/watch?v=mTxULThjy0A) I made goes into more detail. The trike was built from April to August of 2020, the long timeline is due in part to shipping lead times for some parts as well as money. I was also not sure if something would work so I would not order more parts until I made something work. I wasn't terribly confident that it would work so I was stressed for most of the build. The biggest struggle was finding parts and engine wiring. 
+In August of 2020 I watched [this](https://www.youtube.com/watch?v=_atw3e0nIrg&pp=sAQA) video. It looked like a very cool project and I was interested in the basics of CNC control and machining. The router is fundamentaly and trim router mounted to 3 computer controlled axis. I bought the plans go into building.   
 
 
 ## The Build
-The trike is made from the downtube and front fork of a bmx and a custom steel frame. The steel should be welded together but I didn't have welder acess so I used bolts, this resulted in a fram with a bit more flex than is ideal but it was ok. 
-
-![Pic](https://media.discordapp.net/attachments/742868329336930305/855583801866846218/unknown.png)
+The router is made from aluminum tube and 3d printed parts. The aluminum was bought from a local welding supply and the parts were printed on my 3-D printer. The first part of the build consisted of printing all of the parts, I had one printer, an ender 3, and some of the parts took up to 3 dayts to print so it took a few weeks to get everything printed. 
+![Pic](https://media.discordapp.net/attachments/871958447074197535/871958457245401148/unknown.png?width=800&height=674)
 ![Pic](https://media.discordapp.net/attachments/742868329336930305/855583278651408415/unknown.png?width=800&height=674)
 
 The trike is powered by a pitbike engine that has an electric start. Power is transfered via chain with a gear ratio of about 1:2. The entire axle is keyed with no differential, this works out because the tires do not have much traction so if the rotational difference is to great they can slide. Below is a picture of the engine with the carb on top. 
