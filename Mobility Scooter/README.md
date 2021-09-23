@@ -13,9 +13,8 @@ The electrical system is 4 sla batteries in sires to get 48V. The 2kw motor and 
 ![Pic](https://media.discordapp.net/attachments/871958447074197535/890428806756716624/IMG_0219.jpg?width=900&height=675)
 ![Pic](https://media.discordapp.net/attachments/871958447074197535/890428806614110228/IMG_0180.jpg?width=506&height=675)
 
-The frame goes from the downtube to a piece of steel tube and to a steel square in the back that hold the drive components. There is also a stringer from the rear of the fram to the downtube to add rigidity. It can be seen in the picture below. 
-
-![Pic](https://media.discordapp.net/attachments/742868329336930305/855583359655870504/unknown.png?width=800&height=674)
+Power is transfered with a chain and custom welded sproket, the alignment is somewhat poor but the motor slop somewhat compensates. 
+![Pic](https://cdn.discordapp.com/attachments/871958447074197535/890428806647668766/64833960983__BCA9E4F7-ED67-4F40-844D-6DF775E01B63.jpg)
 
 The wheels sat in pillow block bearings that were self aligning. These bearing were mounted to the side of the rear frame. 
 ## Conclusion
