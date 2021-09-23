@@ -16,8 +16,8 @@ The electrical system is 4 sla batteries in sires to get 48V. The 2kw motor and 
 Power is transfered with a chain and custom welded sproket, the alignment is somewhat poor but the motor slop somewhat compensates. 
 ![Pic](https://cdn.discordapp.com/attachments/871958447074197535/890428806647668766/64833960983__BCA9E4F7-ED67-4F40-844D-6DF775E01B63.jpg)
 
-The wheels sat in pillow block bearings that were self aligning. These bearing were mounted to the side of the rear frame. 
 ## Conclusion
-This project was mentally exhausting as the scale was near the limit for me personally, I am glad I took it on. I believe that I came out the other end as a better engineer and I learned a lot, both about drift trikes and about how to learn. Even though it didn't go great I still made something very cool and got the confidence to take on other projects. I had never used an angle grinder or wired and engine before this and I just had to teach myself how to do those things. I got much better at using Google to find information when it's not easily avalible. 
-![Pic](https://github.com/vwellmo57/Stuff_Ive_made/blob/main/Drift%20Trike/Images/IMG_20200719_140138746.jpg)
+This project was a blast, it was a nice challange that pushed me with electronics and welding while not going so far as to be a major stressor. Learning more about brushless motors and drive systems was super useful and I belive that knowledge may come in useful one day. 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 
