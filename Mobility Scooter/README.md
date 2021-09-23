@@ -9,9 +9,9 @@ The frame of the scooter was modified with aditional steel tube and sheet metal 
 ![Pic](https://media.discordapp.net/attachments/871958447074197535/890428806685421638/IMG_0122.jpg?width=900&height=675)
 
 
-The trike is powered by a pitbike engine that has an electric start. Power is transfered via chain with a gear ratio of about 1:2. The entire axle is keyed with no differential, this works out because the tires do not have much traction so if the rotational difference is to great they can slide. Below is a picture of the engine with the carb on top. 
-
-![Pic](https://media.discordapp.net/attachments/742868329336930305/855583178802724864/unknown.png?width=800&height=675)
+The electrical system is 4 sla batteries in sires to get 48V. The 2kw motor and controller came from China. The whole system is wired to a throttle grip for throttle and a key start as well as a revere switch. 
+![Pic](https://media.discordapp.net/attachments/871958447074197535/890428806756716624/IMG_0219.jpg?width=900&height=675)
+![Pic](https://media.discordapp.net/attachments/871958447074197535/890428806614110228/IMG_0180.jpg?width=506&height=675)
 
 The frame goes from the downtube to a piece of steel tube and to a steel square in the back that hold the drive components. There is also a stringer from the rear of the fram to the downtube to add rigidity. It can be seen in the picture below. 
 
