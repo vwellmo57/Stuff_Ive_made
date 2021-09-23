@@ -17,7 +17,7 @@ Power is transfered with a chain and custom welded sproket, the alignment is som
 ![Pic](https://cdn.discordapp.com/attachments/871958447074197535/890428806647668766/64833960983__BCA9E4F7-ED67-4F40-844D-6DF775E01B63.jpg)
 
 ## Conclusion
-This project was a blast, it was a nice challange that pushed me with electronics and welding while not going so far as to be a major stressor. Learning more about brushless motors and drive systems was super useful and I belive that knowledge may come in useful one day. 
+This project was a blast, it was a nice challange that pushed me with electronics and welding while not going so far as to be a major stressor. Learning more about brushless motors and drive systems was super useful and I belive that knowledge may come in useful one day. Video below!
 [![Watch the video](https://media.discordapp.net/attachments/871958447074197535/890428806899335198/IMG_0069.jpg?width=900&height=675)](https://youtu.be/qZVCzfoY_qA)
 
 
